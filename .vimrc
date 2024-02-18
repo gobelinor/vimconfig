@@ -34,5 +34,10 @@ nnoremap <C-Right> :wincmd l<CR>
 nnoremap <C-Up> :wincmd k<CR>
 nnoremap <C-Down> :wincmd j<CR>
 
+" Redimensionner les fenêtres avec Ctrl + Shift + Flèches directionnelles
+nnoremap <C-S-Up>    :resize +2<CR>
+nnoremap <C-S-Down>  :resize -2<CR>
+nnoremap <C-S-Left>  :vertical resize +2<CR>
+nnoremap <C-S-Right> :vertical resize -2<CR>
 
 
