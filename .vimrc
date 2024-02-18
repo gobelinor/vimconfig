@@ -29,16 +29,16 @@ autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTr
 nnoremap <C-n> :NERDTreeToggle<CR>
 
 " Changer de fenêtre avec Ctrl + Flèche directionnelle
-nnoremap <C-Left> :wincmd h<CR>
-nnoremap <C-Right> :wincmd l<CR>
-nnoremap <C-Up> :wincmd k<CR>
-nnoremap <C-Down> :wincmd j<CR>
+nnoremap <silent>  <C-Left> :wincmd h<CR>
+nnoremap <silent>  <C-Right> :wincmd l<CR>
+nnoremap <silent>  <C-Up> :wincmd k<CR>
+nnoremap <silent>  <C-Down> :wincmd j<CR>
 
 " Redimensionner les fenêtres avec Ctrl + Shift + Flèches directionnelles
-nnoremap <C-S-Up>    :resize +2<CR>
-nnoremap <C-S-Down>  :resize -2<CR>
-nnoremap <C-S-Left>  :vertical resize +2<CR>
-nnoremap <C-S-Right> :vertical resize -2<CR>
+nnoremap <silent>  <C-S-Up>    :resize +2<CR>
+nnoremap <silent>  <C-S-Down>  :resize -2<CR>
+nnoremap <silent>  <C-S-Left>  :vertical resize +2<CR>
+nnoremap <silent>  <C-S-Right> :vertical resize -2<CR>
 
 " Active ou désactive les suggestions de Copilot
 let g:copilot_enabled = 0 
