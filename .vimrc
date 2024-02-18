@@ -40,4 +40,18 @@ nnoremap <C-S-Down>  :resize -2<CR>
 nnoremap <C-S-Left>  :vertical resize +2<CR>
 nnoremap <C-S-Right> :vertical resize -2<CR>
 
+" Active ou désactive les suggestions de Copilot
+let g:copilot_enabled = 0 
 
+" Raccourci pour activer/désactiver Copilot
+nnoremap <C-c> :call ToggleCopilot()<CR>
+
+function! ToggleCopilot()
+    if g:copilot_enabled == 1
+        let g:copilot_enabled = 0
+        echo "Copilot désactivé"
+    else
+        let g:copilot_enabled = 1
+        echo "Copilot activé"
+    endif
+endfunction
