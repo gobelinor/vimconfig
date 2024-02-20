@@ -63,3 +63,7 @@ function! ToggleCopilot()
     endif
 endfunction
 
+" prochaine suggestion copilot sur ²
+imap ² <Plug>(copilot-next)
+
+
