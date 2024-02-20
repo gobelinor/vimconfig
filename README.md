@@ -26,7 +26,7 @@ install_plugins.sh: Un script d'installation des plugins Vim que j'utilise régu
 
 Cloner ce dépôt Git vers votre répertoire local :
 
-    git clone https://github.com/gobelinor/config.git
+    git clone https://github.com/gobelinor/vimconfig.git
 
 Exécuter le script d'installation des plugins pour installer les plugins mentionnés :
 
