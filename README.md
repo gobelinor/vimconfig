@@ -1,10 +1,10 @@
-# H1 Contenu du Répertoire
+# Contenu
 
 .vimrc: Mon fichier de configuration Vim principal contenant les paramètres et les mappings personnalisés.
 
 install_plugins.sh: Un script d'installation des plugins Vim que j'utilise régulièrement. Ce script utilise Pathogen pour la gestion des plugins.
 
-# H2 Plugins Installés
+# Plugins Installés
 
 - Pathogen: Un gestionnaire de plugins Vim qui facilite l'installation et la gestion des plugins.
 
@@ -22,7 +22,7 @@ install_plugins.sh: Un script d'installation des plugins Vim que j'utilise régu
 
 - rust.vim: Des améliorations de syntaxe et de formatage pour le langage Rust dans Vim.
 
-# H2 Instructions d'Utilisation
+# Instructions d'Utilisation
 
 Cloner ce dépôt Git vers votre répertoire local :
 
@@ -38,7 +38,7 @@ Copier le fichier .vimrc dans votre répertoire personnel (~) ou fusionner son c
 Ouvrir Vim et profiter de la configuration personnalisée ainsi que des plugins installés !
 
 
-# H2 Commandes Utiles
+# Commandes Utiles
 
 Ctrl + n : Ouvrir ou fermer NERDTree (explorateur de fichiers).
 
@@ -49,5 +49,3 @@ Ctrl + Shift + Flèches directionnelles : Redimensionner les fenêtres Vim.
 Ctrl + c : Activer les suggestion de Copilot 
 
 ² en mode insertion : Accéder à la prochaine suggestion de Copilot.
-
-
