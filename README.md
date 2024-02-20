@@ -16,7 +16,7 @@ install_plugins.sh: Un script d'installation des plugins Vim que j'utilise régu
 
 - Vim sensible: Un ensemble de paramètres Vim sensibles pour une meilleure expérience utilisateur.
 
-- Copilot: Un plugin pour Vim intégrant GitHub Copilot, offrant des suggestions de code basées sur l'IA. (Ctrl + c pour activer, ² pour passer a la suggestion suivante)
+- Copilot: Un plugin pour Vim intégrant GitHub Copilot, offrant des suggestions de code basées sur l'IA. (Ctrl + c pour activer, ² pour passer à la suggestion suivante)
 
 - tcomment_vim: Un plugin pour commenter/décommenter facilement le code dans Vim. ("gc" en mode Visual)
 
