@@ -50,4 +50,4 @@ Ouvrir Vim et profiter de la configuration personnalisée ainsi que des plugins 
 
 - Ctrl + c : Activer les suggestion de Copilot 
 
-² en mode insertion : Accéder à la prochaine suggestion de Copilot.
+- ² en mode insertion : Accéder à la prochaine suggestion de Copilot.
