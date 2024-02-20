@@ -40,6 +40,8 @@ Ouvrir Vim et profiter de la configuration personnalisée ainsi que des plugins 
 
 # Commandes Utiles
 
+Shift + u : inverse de "u", anciennement Ctrl + r 
+
 Ctrl + n : Ouvrir ou fermer NERDTree (explorateur de fichiers).
 
 Ctrl + Flèche directionnelle : Changer de fenêtre dans Vim.
