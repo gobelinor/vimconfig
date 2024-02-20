@@ -40,14 +40,14 @@ Ouvrir Vim et profiter de la configuration personnalisée ainsi que des plugins 
 
 # Commandes Utiles
 
-Shift + u : inverse de "u", anciennement Ctrl + r 
+- Shift + u : inverse de "u", anciennement Ctrl + r 
 
-Ctrl + n : Ouvrir ou fermer NERDTree (explorateur de fichiers).
+- Ctrl + n : Ouvrir ou fermer NERDTree (explorateur de fichiers).
 
-Ctrl + Flèche directionnelle : Changer de fenêtre dans Vim.
+- Ctrl + Flèche directionnelle : Changer de fenêtre dans Vim.
 
-Ctrl + Shift + Flèches directionnelles : Redimensionner les fenêtres Vim.
+- Ctrl + Shift + Flèches directionnelles : Redimensionner les fenêtres Vim.
 
-Ctrl + c : Activer les suggestion de Copilot 
+- Ctrl + c : Activer les suggestion de Copilot 
 
 ² en mode insertion : Accéder à la prochaine suggestion de Copilot.
