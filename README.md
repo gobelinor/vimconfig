@@ -38,7 +38,7 @@ Copier le fichier .vimrc dans votre répertoire personnel (~) ou fusionner son c
 Ouvrir Vim et profiter de la configuration personnalisée ainsi que des plugins installés !
 
 
-# Commandes Utiles
+# Raccourcis 
 
 - Shift + u : inverse de "u", anciennement Ctrl + r 
 
