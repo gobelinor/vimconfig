@@ -30,7 +30,7 @@ Cloner ce dépôt Git vers votre répertoire local :
 
 Exécuter le script d'installation des plugins pour installer les plugins mentionnés :
 
-    cd config
+    cd vimconfig
     chmod +x install_plugins.sh
     ./install_plugins.sh
 
